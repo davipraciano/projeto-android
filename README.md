@@ -10,5 +10,6 @@
     }
     a:hover {
         color: blue;
+        text-decoration: none;
     }
 </style>    
